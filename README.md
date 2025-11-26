@@ -18,7 +18,7 @@ Requirements
 Usage
 1. Place your data Excel file (example.xlsx) in a known folder.
 2. Update the `filepath` in the analysis script (analysis.R) to point to your Excel file.
-3. Run the script: Source it in RStudio or run `Rscript analysis.R` from the terminal.
+3. Run the script: Use the code from description.
 4. Inspect generated plots and model output in the console / plots pane.
 
 Notes
